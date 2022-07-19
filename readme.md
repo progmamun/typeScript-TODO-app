@@ -1,0 +1,5 @@
+- `npm init -y`
+- `npm i --save-dev typescript`
+- `npx tsc --init`
+---
+- `yarn create react-app my-app --template typescript`
